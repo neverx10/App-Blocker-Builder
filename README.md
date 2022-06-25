@@ -2,7 +2,7 @@
 ![the (1)](https://user-images.githubusercontent.com/105104238/175570004-e2d873ef-b348-4fd8-bd5a-20970016ff21.png)
 
 
-An application blocker by NeverS created on behalf of the RAIDKiller which can be used to
+An application blocker by NeverX created on behalf of the RAIDKiller which can be used to
 
 ● Malware creation
 
